@@ -1,4 +1,3 @@
-import {Categories} from '../Dashboard/Cetegory'
 
 const Offers = () => {
   return (
